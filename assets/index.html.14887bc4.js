@@ -1,1 +1,0 @@
-const t={key:"v-506407f4",path:"/en/article/",title:"Articles",lang:"zh-CN",frontmatter:{title:"Articles",blog:{type:"type",key:"article"},layout:"Blog"},excerpt:"",headers:[],git:{},readingTime:{minutes:0,words:0},copyright:"\u8457\u4F5C\u6743\u5F52\u6240\u6709",filePathRelative:null};export{t as data};
