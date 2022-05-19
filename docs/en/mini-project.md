@@ -1,15 +1,15 @@
 ---
 home: true
 icon: creative
-title: mini项目
+title: Mini Projects
 heroImage: /logo.png
-heroText: mini项目
+heroText: mini projects
 # tagline: You can place the description of the project here.
 actions:
-  - text: 关于mini 💡
-    link: /about
+  - text: How to start 💡
+    link: /guide
 
-  - text: 主页 🏠
+  - text: Home 🏠
     link: /
     type: secondary
 

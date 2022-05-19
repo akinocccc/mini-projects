@@ -1,17 +1,24 @@
 import { hopeTheme } from 'vuepress-theme-hope';
 import * as navbar from './navbar';
-import * as sidebar from './sidebar';
 
 export default hopeTheme({
-  // author: {},
+  author: {
+    name: 'Mini',
+    url: '/'
+  },
+  themeColor: {
+    blue: '#2196f3'
+  },
 
   iconPrefix: 'iconfont icon-',
 
-  logo: '/logo.png',
+  logo: '/logo.svg',
 
-  repo: 'https://github.com/vkm0303/mini-page.git',
+  repo: 'https://github.com/vkm0303/mini-projects',
 
   docsDir: 'docs',
+
+  docsBranch: 'mini-page',
 
   pageInfo: ['Author', 'Original', 'Date', 'Category', 'Tag', 'ReadingTime'],
 
@@ -27,7 +34,7 @@ export default hopeTheme({
       // sidebar
       sidebar: false,
 
-      footer: '默认页脚',
+      footer: 'Mini Projects',
 
       displayFooter: true
     },
@@ -42,7 +49,7 @@ export default hopeTheme({
       // sidebar
       sidebar: false,
 
-      footer: 'Default footer',
+      footer: 'Mini Projects',
 
       displayFooter: true
     }
@@ -60,6 +67,8 @@ export default hopeTheme({
       autoExcerpt: false
     },
 
+    copyright: true,
+
     // If you don't need comment feature, you can remove following option
     // The following config is for demo ONLY, if you need comment feature, please generate and use your own config, see comment plugin documentation for details.
     // To avoid disturbing the theme developer and consuming his resources, please DO NOT use the following config directly in your production environment!!!!!
@@ -68,22 +77,10 @@ export default hopeTheme({
        * Using giscus
        */
       type: 'giscus',
-      repo: 'vuepress-theme-hope/giscus-discussions',
-      repoId: 'R_kgDOG_Pt2A',
-      category: 'Announcements',
-      categoryId: 'DIC_kwDOG_Pt2M4COD69'
-
-      /**
-       * Using twikoo
-       */
-      // type: "twikoo",
-      // envId: "https://twikoo.ccknbc.vercel.app",
-
-      /**
-       * Using Waline
-       */
-      // type: "waline",
-      // serverURL: "https://vuepress-theme-hope-comment.vercel.app",
+      repo: 'vkm0303/mini-projects',
+      repoId: 'R_kgDOHWEnZw',
+      category: 'Show and tell',
+      categoryId: 'DIC_kwDOHWEnZ84CPLhG'
     },
 
     mdEnhance: {
