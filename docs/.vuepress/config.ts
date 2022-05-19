@@ -17,7 +17,7 @@ export default defineUserConfig({
       'link',
       {
         rel: 'icon',
-        href: '/logo.svg'
+        href: '/mini-projects/logo.svg'
       }
     ]
   ],

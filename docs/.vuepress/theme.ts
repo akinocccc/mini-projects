@@ -6,9 +6,8 @@ export default hopeTheme({
     name: 'Mini',
     url: '/'
   },
-  themeColor: {
-    blue: '#2196f3'
-  },
+
+  themeColor: false,
 
   iconPrefix: 'iconfont icon-',
 
@@ -22,10 +21,6 @@ export default hopeTheme({
 
   pageInfo: ['Author', 'Original', 'Date', 'Category', 'Tag', 'ReadingTime'],
 
-  blog: {
-    medias: {}
-  },
-
   locales: {
     '/': {
       // navbar
@@ -34,7 +29,7 @@ export default hopeTheme({
       // sidebar
       sidebar: false,
 
-      footer: 'Mini Projects',
+      footer: 'Copyright © 2022 Mini',
 
       displayFooter: true
     },
@@ -49,7 +44,7 @@ export default hopeTheme({
       // sidebar
       sidebar: false,
 
-      footer: 'Mini Projects',
+      footer: 'Copyright © 2022 Mini',
 
       displayFooter: true
     }
@@ -62,12 +57,12 @@ export default hopeTheme({
     }
   },
 
+  copyright: false,
+
   plugins: {
     blog: {
       autoExcerpt: false
     },
-
-    copyright: true,
 
     // If you don't need comment feature, you can remove following option
     // The following config is for demo ONLY, if you need comment feature, please generate and use your own config, see comment plugin documentation for details.

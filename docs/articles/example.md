@@ -1,6 +1,9 @@
 ---
 title: 如何发布文章
 icon: read
+date: 2022-05-18
+category:
+  - 其它
 ---
 
 ## 格式
@@ -14,6 +17,7 @@ icon: read
 title: 文章示例 # string 【必填】
 description: xxx # string 当前页面内容描述
 icon: read # string 当前页面图标的 FontClass，支持图表见 https://vuepress-theme-hope.github.io/v2/zh/guide/interface/icon.html#iconfont-精选图标
+date: 2022-01-01 # string(YY-MM-DD | YYYY/MM/DD hh:mm:ss) 写作日期时间
 isOriginal: true # boolean 是否原创
 category: # string | string[] 分类
   - aaa
