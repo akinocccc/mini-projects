@@ -1,1 +1,0 @@
-const e={key:"v-50b0270f",path:"/en/category/categoryb/",title:"CategoryB Category",lang:"zh-CN",frontmatter:{title:"CategoryB Category",blog:{type:"category",name:"CategoryB",key:"category"},layout:"Blog"},excerpt:"",headers:[],git:{},readingTime:{minutes:0,words:0},filePathRelative:null};export{e as data};

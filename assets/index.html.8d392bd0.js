@@ -1,1 +1,0 @@
-const a={key:"v-6f7bfa04",path:"/en/tag/markdown/",title:"Markdown Tags",lang:"zh-CN",frontmatter:{title:"Markdown Tags",blog:{type:"category",name:"Markdown",key:"tag"},layout:"Blog"},excerpt:"",headers:[],git:{},readingTime:{minutes:0,words:0},filePathRelative:null};export{a as data};

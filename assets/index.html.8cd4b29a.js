@@ -1,1 +1,0 @@
-const e={key:"v-103a888e",path:"/en/tag/%E9%A1%B5%E9%9D%A2%E9%85%8D%E7%BD%AE/",title:"\u9875\u9762\u914D\u7F6E Tags",lang:"zh-CN",frontmatter:{title:"\u9875\u9762\u914D\u7F6E Tags",blog:{type:"category",name:"\u9875\u9762\u914D\u7F6E",key:"tag"},layout:"Blog"},excerpt:"",headers:[],git:{},readingTime:{minutes:0,words:0},filePathRelative:null};export{e as data};
