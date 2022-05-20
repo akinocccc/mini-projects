@@ -57,6 +57,8 @@ export default hopeTheme({
     }
   },
 
+  darkmode: 'disable',
+
   copyright: false,
 
   plugins: {
