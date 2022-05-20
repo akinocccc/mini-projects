@@ -59,6 +59,8 @@ export default hopeTheme({
 
   darkmode: 'disable',
 
+  fullscreen: false,
+
   copyright: false,
 
   plugins: {
