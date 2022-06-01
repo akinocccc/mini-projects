@@ -1,9 +1,9 @@
 ---
 home: true
 icon: creative
-title: mini项目
+title: SZTU云科技实验室
 heroImage: /logo.png
-heroText: mini项目
+heroText: SZTU云科技实验室
 # tagline: You can place the description of the project here.
 # actions:
 #   - text: 关于mini 💡
